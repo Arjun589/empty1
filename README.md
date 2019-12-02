@@ -1,2 +1,2 @@
 # Codingblog
-This is help to understand how blogs are created and managed through flask
+This will help you to understand how blogs are created and managed through flask
